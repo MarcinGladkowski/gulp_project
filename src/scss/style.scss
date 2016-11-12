@@ -1,13 +1,1 @@
-@import "settings";
-
-body {
-  background-color: $colog-bg;
-  color: $color-text;
-}
-a {
-  color: $color-link;
-  display: flex;
-}
-p {
-  font-size: 20px;
-}
+@import "modules/settings";
